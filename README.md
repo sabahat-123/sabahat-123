@@ -14,8 +14,8 @@
   <a href="https://www.instagram.com/sabahat19121/">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
-  <a href="https://replit.com/~">
-    <img src="https://img.shields.io/badge/replit-blue?style=for-the-badge&logo=replit&logoColor=white" alt="replit Badge"/>
+  <a href="https://app.netlify.com/teams/sabahat-123/overview">
+    <img src="https://img.shields.io/badge/netlify-blue?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
