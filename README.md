@@ -1,4 +1,4 @@
-# Sabahat Parveen
+
 <h1 id="heading" align="center">Hi 👋, I'm SABAHAT PARVEEN </h1>
 <h2 id="heading" align="center">A passionate frontend developer from India </h2>
 
